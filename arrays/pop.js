@@ -1,7 +1,7 @@
-var array = [1, 3, 5, 'seven']
+var array = [1, 3, 5, 'seven'];
 
-console.log(`Before pop(): ${JSON.stringify(array)}`)
+console.log(`Before pop(): ${JSON.stringify(array)}`);
 
-array.pop()
+array.pop();
 
-console.log(`After pop(): ${JSON.stringify(array)}`)
+console.log(`After pop(): ${JSON.stringify(array)}`);
